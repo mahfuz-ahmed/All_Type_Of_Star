@@ -1,0 +1,14 @@
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\bin\Debug\net6.0\StarPatterns.exe
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\bin\Debug\net6.0\StarPatterns.deps.json
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\bin\Debug\net6.0\StarPatterns.runtimeconfig.json
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\bin\Debug\net6.0\StarPatterns.dll
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\bin\Debug\net6.0\StarPatterns.pdb
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.AssemblyInfoInputs.cache
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.AssemblyInfo.cs
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.csproj.CoreCompileInputs.cache
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.dll
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\refint\StarPatterns.dll
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.pdb
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\StarPatterns.genruntimeconfig.cache
+D:\ASP.NET\BITM\C#\RandomPractice\StarPatterns\StarPatterns\StarPatterns\obj\Debug\net6.0\ref\StarPatterns.dll
