@@ -26,7 +26,7 @@ namespace StarPatterns
             }
 
 
-            Console.WriteLine("Right Triangle Star");
+            Console.WriteLine("Mirror Right Triangle Star");
             Console.WriteLine();
 
             for (int i = 1; i <= n; i++)
@@ -37,6 +37,41 @@ namespace StarPatterns
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine("Mirror Right Triangle Star");
+            Console.WriteLine();
+
+            for(int i = 1;i <= n; i++)
+            {
+                for (int j = n; j > i; j--)
+                {
+                    Console.Write(" ");
+                }
+
+                for( int j = 1 ;j <= i; j++)
+                {
+                    Console.Write('*');
+                }
+                Console.WriteLine() ;   
+            }
+
+            Console.WriteLine("Hollow Inverted Mirrored Right Triangle Star Pattern");
+            Console.WriteLine();
+
+            for (int i = 1; i <= n; i++)
+            {
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int j = n; j >= i; j--)
+                {
+                    Console.Write('*');
+                }
+                Console.WriteLine();
+            }
+
         }
     }
 }
