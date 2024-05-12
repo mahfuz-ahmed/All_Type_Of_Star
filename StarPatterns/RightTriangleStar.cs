@@ -55,7 +55,7 @@ namespace StarPatterns
                 Console.WriteLine() ;   
             }
 
-            Console.WriteLine("Hollow Inverted Mirrored Right Triangle Star Pattern");
+            Console.WriteLine("Inverted Mirrored Right Triangle Star Pattern");
             Console.WriteLine();
 
             for (int i = 1; i <= n; i++)

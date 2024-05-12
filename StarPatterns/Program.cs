@@ -18,6 +18,9 @@ public class Program
         RightTriangleStar rightTriangleStar = new RightTriangleStar();
         rightTriangleStar.Star();
 
+        Hollow_Right_Triangle hollow_Right_Triangle = new Hollow_Right_Triangle();
+        hollow_Right_Triangle.Star();
+
         Console.ReadKey();
     }
 }

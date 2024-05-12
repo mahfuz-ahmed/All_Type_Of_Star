@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,12 +11,25 @@ namespace StarPatterns
     {
         public void Star()
         {
-            Console.WriteLine("Hollow_Right_Triangle");
+            Console.WriteLine("Hollow_Right_Triangle_Star");
             Console.WriteLine();
 
-            for (int i = 0; i < 10; i++)
+            int n = 10;
+
+            for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine();
+                for (int j = 1; j <= i; j++)
+                {
+                    if (j == 1 || j == i || i==n)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
+               Console.WriteLine();
             }
         }
     }
