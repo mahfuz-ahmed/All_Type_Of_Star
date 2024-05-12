@@ -31,6 +31,30 @@ namespace StarPatterns
                 }
                Console.WriteLine();
             }
+
+            Console.WriteLine("Hollow_Mirrored_Right_Triangle_Star");
+            Console.WriteLine();
+
+            for (int i = 1; i <=n; i++)
+            {
+                for (int j = n; j >=i; j--)
+                {
+                    Console.Write(" ");
+                }
+                for (int k = 1;k <=i; k++)
+                {
+                    if(k == 1 || k == i || i == n)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(' ');
+                    }
+                }
+                Console.WriteLine();
+            }
+
         }
     }
 }
