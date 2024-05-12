@@ -59,6 +59,7 @@ namespace StarPatterns
                 }
                 Console.WriteLine();
             }
+
         }
 
     }
