@@ -21,6 +21,9 @@ public class Program
         Hollow_Right_Triangle hollow_Right_Triangle = new Hollow_Right_Triangle();
         hollow_Right_Triangle.Star();
 
+        Hollow_Inverted_Right_Triangle hollow_Inverted_Right_Triangle = new Hollow_Inverted_Right_Triangle();
+        hollow_Inverted_Right_Triangle.Start();
+
         Console.ReadKey();
     }
 }
