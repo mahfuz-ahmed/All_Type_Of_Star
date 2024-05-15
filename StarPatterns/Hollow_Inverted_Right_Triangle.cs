@@ -31,6 +31,27 @@ namespace StarPatterns
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine("Hollow_Inverted_Mirrored_Right_Triangle");
+            Console.WriteLine();
+
+            for (int i = 1;i <= n; i++)
+            {
+                for(int j = 1; j <= i; j++)
+                {
+                    Console.Write(" ");
+                }
+
+                for(int j = n; j >= i; j--)
+                {
+                    if(j == n || j == i || i==1)
+                    {
+                        Console.Write("*");
+                    }
+                    else { Console.Write(" "); }
+                }
+                Console.WriteLine() ;
+            }
         }
     }
 }
