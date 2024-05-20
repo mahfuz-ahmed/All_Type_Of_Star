@@ -27,6 +27,9 @@ public class Program
         Hollow_Squre_Pattern hollow_Squre = new Hollow_Squre_Pattern();
         hollow_Squre.Star();
 
+        Pyramid pyramid = new Pyramid();
+        pyramid.Star();
+
         Console.ReadKey();
     }
 }
