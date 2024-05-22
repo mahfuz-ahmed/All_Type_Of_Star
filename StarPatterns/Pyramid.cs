@@ -45,7 +45,7 @@ namespace StarPatterns
                     Console.Write('*');
                 }
 
-                for (int l = 1; l <= i; l++)
+                for (int l = 2; l <= i; l++)
                 {
                     Console.Write("*");
                 }

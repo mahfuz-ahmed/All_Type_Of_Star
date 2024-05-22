@@ -30,6 +30,9 @@ public class Program
         Pyramid pyramid = new Pyramid();
         pyramid.Star();
 
+        Hollow_Pyramid_Star hollow_Pyramid_ = new Hollow_Pyramid_Star();
+        hollow_Pyramid_.Star();
+
         Console.ReadKey();
     }
 }
