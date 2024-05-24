@@ -33,7 +33,20 @@ public class Program
         Hollow_Pyramid_Star hollow_Pyramid_ = new Hollow_Pyramid_Star();
         hollow_Pyramid_.Star();
 
+        Inverted_Pyramid_Star inverted_Pyramid_Star = new Inverted_Pyramid_Star();
+        inverted_Pyramid_Star.Star();
 
+        Left_Arrow_Star left_Arrow_Star = new Left_Arrow_Star();
+        left_Arrow_Star.Star();
+
+        Half_Diamond half_Diamond = new Half_Diamond();
+        half_Diamond.Star();
+
+        Plus_Star plus_Star = new Plus_Star();
+        plus_Star.Star();
+
+        X_Star x_Star = new X_Star();
+        x_Star.Star();
 
         Console.ReadKey();
     }
