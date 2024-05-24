@@ -33,8 +33,7 @@ public class Program
         Hollow_Pyramid_Star hollow_Pyramid_ = new Hollow_Pyramid_Star();
         hollow_Pyramid_.Star();
 
-        Inverted_Pyramid_Star inverted_Pyramid_Star = new Inverted_Pyramid_Star();
-        inverted_Pyramid_Star.Star();
+
 
         Console.ReadKey();
     }
